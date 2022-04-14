@@ -1,0 +1,26 @@
+
+body {
+    background-image: url(./foto.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+
+header {
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        color: whitesmoke;
+        padding: 3px;
+
+}
+
+main{
+
+    color: whitesmoke;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
